@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      crystal-owo:
-       github: your-github-user/crystal-owo
+       github: varSapphire/crystal-owo
    ```
 
 2. Run `shards install`
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/crystal-owo/fork>)
+1. Fork it (<https://github.com/varSapphire/crystal-owo/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Sapphire](https://github.com/your-github-user) - creator and maintainer
+- [Sapphire](https://github.com/varSapphire) - creator and maintainer

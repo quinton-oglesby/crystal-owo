@@ -1,4 +1,5 @@
 name: crystal-owo
+description: A shard containing an algorithm to owoify a given string.
 version: 0.1.0
 
 authors:
