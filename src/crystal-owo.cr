@@ -69,7 +69,7 @@ def whats_this(s : String)
     "THE " => "DA ",
   }
 
-  substitutions.each do |key, value|
+  substitutions do |key, value|
     s = s.sub(key) { value }
   end
 
