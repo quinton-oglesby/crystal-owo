@@ -1,0 +1,9 @@
+name: crystal-owo
+version: 0.1.0
+
+authors:
+  - Sapphire <quinton.oglesby@icloud.com>
+
+crystal: 1.6.2
+
+license: MIT
