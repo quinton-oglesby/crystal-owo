@@ -1,9 +1,9 @@
 name: crystal-owo
 description: A shard containing an algorithm to owoify a given string.
-version: 0.1.0
+version: 0.2.0
 
 authors:
-  - Sapphire <quinton.oglesby@icloud.com>
+  - Sapphire
 
 crystal: 1.6.2
 

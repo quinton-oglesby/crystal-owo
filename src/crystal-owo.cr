@@ -1,6 +1,6 @@
 # TODO: Write documentation for `Crystal::Owo`
 module Crystal::Owo
-  VERSION = "0.1.0"
+  VERSION = "0.2.0"
 end
 
 def whats_this(s : String)
@@ -69,8 +69,8 @@ def whats_this(s : String)
     "THE " => "DA ",
   }
 
-  substitutions do |key, value|
-    s = s.sub(key) { value }
+  substitutions.each do |key, value|
+    s = s.gsub(key, value)
   end
 
   s = prefixes.sample + s + suffixes.sample
